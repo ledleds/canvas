@@ -5,7 +5,7 @@ An online drawing tool.
 ## Installation
 
 - Clone this repo
-- Run _bundle install_ in project root directory
+- Run ```bundle install``` in project root directory
 - Open index.html in your browser
 - Draw!
 
